@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Palawan Island",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/palawan.jpg",
-    "price": 100,
+    "price": 100
     "priceCurrency": "km",
     "lat": 9.446764, 
     "lng": 118.396022

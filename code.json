@@ -82,7 +82,7 @@
   },
   {
     "id": 216,
-    "name": "My home (Pagdalagan Sur Bauang LU",
+    "name": "My home",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/home.png",
     "price": 2,
     "priceCurrency": "km",
@@ -102,7 +102,7 @@
     "id": 218,
     "name": "Venice Grand Canal",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/venice.jpg",
-     "price": 2,
+     "price": 60,
     "priceCurrency": "km",
     "lat": 14.533583, 
     "lng": 121.051176

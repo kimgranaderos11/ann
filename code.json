@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Palawan Island",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/palawan.jpg",
-    "Distance(Km)": 100km,
+    "Distance(Km)": 100,
     "lat": 9.446764, 
     "lng": 118.396022
   },
@@ -11,7 +11,7 @@
     "id": 148,
     "name": "Boracay Island ",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/bora.jpg",
-    "Distance(Km)": 100km,
+    "Distance(Km)": 100,
     "lat": 11.966884,
     "lng":  121.927575
   },
@@ -19,7 +19,7 @@
     "id": 201,
     "name": "Bangui Windmills Ilocos Norte",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/windmill.jpg",
-    "Distance(Km)": 20km,
+    "Distance(Km)": 20,
     "lat": 18.528576,
     "lng": 120.718145
   },
@@ -35,7 +35,7 @@
     "id": 211,
     "name": "Vigan City",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/vigan.jpg",
-    "Distance(Km)": 10km,
+    "Distance(Km)": 10,
     "lat": 17.569647,
     "lng":  120.386431
   },
@@ -43,7 +43,7 @@
     "id": 212,
     "name": "Baguio City",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/baguio.png",
-    "Distance(Km)": 2km,,
+    "Distance(Km)": 2,
     "lat": 16.401601,
     "lng": 120.595147
   },
@@ -51,7 +51,7 @@
     "id": 213,
     "name": "Camp Netanya Santorini Batangas",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/Santorini%20in%20Batangas.jpg",
-    "Distance(Km)": 50km,
+    "Distance(Km)": 50,
     "lat": 13.728974, 
     "lng": 120.885756
   },
@@ -59,7 +59,7 @@
     "id": 214,
     "name": "Sky Ranch Pampanga",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/skyranch.jpg",
-    "Distance(Km)": 20km,
+    "Distance(Km)": 20,
     "lat": 15.053953, 
     "lng": 120.696811
   },
@@ -67,7 +67,7 @@
     "id": 215,
     "name": "Aqua Planet (Water Park)",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/Aqua-Planet_screenshot-overview.jpg",
-    "Distance(Km)": 20km,
+    "Distance(Km)": 20,
     "lat": 15.187120, 
     "lng": 120.499165
   },
@@ -75,7 +75,7 @@
     "id": 216,
     "name": "My home (Pagdalagan Sur Bauang LU",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/home.png",
-    "Distance(Km)": 2km,
+    "Distance(Km)": 2,
     "lat": 16.572336,
     "lng": 120.323421
   },
@@ -83,7 +83,7 @@
     "id": 217,
     "name": "Subic Bay",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/subic.jpg",
-    "Distance(Km)": 20km,
+    "Distance(Km)": 20,
     "lat": 14.789090, 
     "lng": 120.243684
   },
@@ -91,7 +91,7 @@
     "id": 218,
     "name": "Venice Grand Canal",
     "imageUrl": "https://raw.githubusercontent.com/kimgranaderos11/ann/master/Tourist/venice.jpg",
-    "Distance(Km)": 2km,
+    "Distance(Km)": 2,
     "lat": 14.533583, 
     "lng": 121.051176
   }
